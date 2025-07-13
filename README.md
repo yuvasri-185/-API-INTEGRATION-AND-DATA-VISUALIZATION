@@ -59,7 +59,7 @@ THE GRAPH SHOWS THE 5-DAY TEMPERATURE FORECAST FOR THE SELECTED CITY IN A 3-HOUR
 
 OUTPUT:
 
-
+<img width="960" height="600" alt="Image" src="https://github.com/user-attachments/assets/66635886-6a16-4151-8922-a406d363e366" />
 
 
 
